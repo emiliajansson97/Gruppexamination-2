@@ -8,7 +8,7 @@
 Länk till Google Kalkylark/Docs: [Klistra in länk här]
 
 ## Sprintmål
-När sprinten är klar ska kaféets startsida visa öppetider, dagens kaka, information om parkering, dagens soppa, telefonnummer samt betalningsallternativ.
+När sprinten är klar ska kaféets startsida visa öppetider, dagens kaka, information om parkering, dagens soppa, telefonnummer, information om nötter, veckans erbjudande,eventkvällar och aktiviteter, information om kundkortet samt betalningsallternativ.
 
 ## Daily standups
 ### [Datum 1 - Tisdag]
