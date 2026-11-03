@@ -15,7 +15,7 @@ När sprinten är klar ska kaféets startsida visa öppetider, dagens kaka, info
 - [Osama]: gjort klart funktion 8 / Gör nu: Förbeder för funktion 11 / hinder: Problem i GitHub att hitta repo
 - [Elin]: gjort klart funktion 10 / gör nu: Förbereder för funktion 13 / hinder: Problem att hitta repo
 - [Emilia]: gjort klart funktion 6 / gör nu: Förbereder för funktion 12 / hinder: Få tider att passa med alla
-- [Zackery]: gjort … / gör nu … / hinder …
+- [Zackery]: gjort klart funktion 7 / gör nu förbereder för funktion 9 / lite krångligt med excel
 ### [Datum 2 - Onsdag]
 - [Namn]: gjort … / gör nu … / hinder …
 ### [Datum 3 - Torsdag]
