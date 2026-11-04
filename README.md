@@ -17,7 +17,10 @@ När sprinten är klar ska kaféets startsida visa öppetider, dagens kaka, info
 - [Emilia]: gjort klart funktion 6 / gör nu: Förbereder för funktion 12 / hinder: Få tider att passa med alla
 - [Zackery]: gjort klart funktion 7 / gör nu förbereder för funktion 9 / lite krångligt med excel
 ### [Datum 2 - Onsdag]
-- [Namn]: gjort … / gör nu … / hinder …
+- [Osama]: gjort klart funktion 11 / gör nu: personlig reflektion / hinder: inga just nu
+- [Elin]: gjort klart funktion 13 / gör nu: väntar på granskning / hinder: inga just nu
+- [Emilia]: gjort klart funktion 12 / gör nu: personlig reflektion / hinder: inga just nu
+- [Zachery]: gjort … / gör nu … / hinder …
 ### [Datum 3 - Torsdag]
 - [Namn]: gjort … / gör nu … / hinder …
 
