@@ -20,7 +20,7 @@ När sprinten är klar ska kaféets startsida visa öppetider, dagens kaka, info
 - [Osama]: gjort klart funktion 11 / gör nu: personlig reflektion / hinder: inga just nu
 - [Elin]: gjort klart funktion 13 / gör nu: väntar på granskning / hinder: inga just nu
 - [Emilia]: gjort klart funktion 12 / gör nu: personlig reflektion / hinder: inga just nu
-- [Zachery]: gjort … / gör nu … / hinder …
+- [Zachery]: gjort klart 9/ gör nu: personlig reflektion / hinder: inga just nu
 ### [Datum 3 - Torsdag]
 - [Namn]: gjort … / gör nu … / hinder …
 
